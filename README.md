@@ -1,4 +1,4 @@
-# Homework1: Professionalism & Reproducibility
+# Data 512A Homework1: Professionalism & Reproducibility
 
 ## About the project
 The goal of this project is to construct, analyze, and publish a dataset of monthly article traffic for a select set of dinosaur pages from English Wikipedia from July 1, 2015 through September 30, 2022
