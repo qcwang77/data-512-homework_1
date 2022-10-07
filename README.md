@@ -47,11 +47,14 @@ variables and description:
 
 ## Graphical Output
 
-[Top_10_Peak_Views](/GraphicalOutput/Top_10_Peak_Views.png)
+Top_10_Peak_Views
+![Top_10_Peak_Views](/GraphicalOutput/Top_10_Peak_Views.png)
 
-[Fewest_Months_of_Data](/GraphicalOutput/Fewest_Months_of_Data.png)
+Fewest_Months_of_Data
+![Fewest_Months_of_Data](/GraphicalOutput/Fewest_Months_of_Data.png)
 
-[Max_Avg_Min_Avg](/GraphicalOutput/Max_Avg_Min_Avg_.png)
+Max_Avg_Min_Avg
+![Max_Avg_Min_Avg](/GraphicalOutput/Max_Avg_Min_Avg_.png)
 
-## known issues or special considerations
+## Known Issues or Special Considerations
 - The Pageviews API requires not exceed 100 requests per second, a delay might be needed
