@@ -34,7 +34,7 @@ There are three output Json data file for desktop, mobile, and cumulative (deskt
 
 [dino_monthly_mobile_201507-202209.json](/DataOutput/dino_monthly_mobile_201507-202209.json) : views by article names with mobile access
 
-[dino_monthly_cumulative_201507-202209.json](/DataOutput/dino_monthly_cumulative_201507-202209.json): views by article names cumulatively with desktop and mobile access
+[dino_monthly_cumulative_201507-202209.json](/DataOutput/dino_monthly_cumulative_201507-202209.json) : views by article names cumulatively with desktop and mobile access
 
 variables and description:
 - project: project name (en.wekipedia)
