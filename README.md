@@ -11,8 +11,11 @@ Wikimedia Foundation REST API [Terms of Use](https://foundation.wikimedia.org/wi
 
 ## Intermediate Data
 There are three intermediate Json data file contains page view data with different access types: desktop, mobile-app, mobile-web:
+
 [monthly_desktop_201507-202209.json](/IntermediateData/monthly_desktop_201507-202209.json)
+
 [monthly_mobileapp_201507-202209.json](/IntermediateData/monthly_mobileapp_201507-202209.json)
+
 [monthly_mobileweb_201507-202209.json](/IntermediateData/monthly_mobileweb_201507-202209.json)
 
 variables and description:
@@ -26,8 +29,11 @@ variables and description:
 
 ## Data Output
 There are three output Json data file for desktop, mobile, and cumulative (desktop + mobile, and cumulative over months)
+
 [dino_monthly_desktop_201507-202209.json](/DataOutput/dino_monthly_desktop_201507-202209.json) : views by article names with desktop access
+
 [dino_monthly_mobile_201507-202209.json](/DataOutput/dino_monthly_mobile_201507-202209.json) : views by article names with mobile access
+
 [dino_monthly_cumulative_201507-202209.json](/DataOutput/dino_monthly_cumulative_201507-202209.json): views by article names cumulatively with desktop and mobile access
 
 variables and description:
@@ -42,7 +48,9 @@ variables and description:
 ## Graphical Output
 
 ![Top_10_Peak_Views](/GraphicalOutput/Top_10_Peak_Views.png)
+
 ![Fewest_Months_of_Data](/GraphicalOutput/Fewest_Months_of_Data.png)
+
 ![Max_Avg_Min_Avg](/GraphicalOutput/Max_Avg_Min_Avg_.png)
 
 ## known issues or special considerations
