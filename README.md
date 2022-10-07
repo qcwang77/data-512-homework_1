@@ -58,3 +58,4 @@ Max_Avg_Min_Avg
 
 ## Known Issues or Special Considerations
 - The Pageviews API requires not exceed 100 requests per second, a delay might be needed
+- Graph Max_Avg_Min_Avg_.png contains lines with a extremely wide range of y-values, might be ideal to plot into seperate graphs
