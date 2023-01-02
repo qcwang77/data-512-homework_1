@@ -1,7 +1,7 @@
-# Data 512A Homework1: Professionalism & Reproducibility
+# Professionalism & Reproducibility
 
 ## About the project
-The goal of this project is to construct, analyze, and publish a dataset of monthly article traffic for a select set of dinosaur pages from English Wikipedia from July 1, 2015 through September 30, 2022
+Homework 1 of UW Data 512A AU22. The goal of this project is to construct, analyze, and publish a dataset of monthly article traffic for a select set of dinosaur pages from English Wikipedia from July 1, 2015 through September 30, 2022
 
 ## Data Source
 This project access page view data using the [Wikimedia REST API](https://www.mediawiki.org/wiki/Wikimedia_REST_API) ([documentation](https://wikitech.wikimedia.org/wiki/Analytics/AQS/Pageviews), [endpoint](https://wikimedia.org/api/rest_v1/#/Pageviews_data/get_metrics_pageviews_aggregate_project_access_agent_granularity_start_end)).
